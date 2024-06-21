@@ -79,7 +79,7 @@ body {
 }
 
 .img-div {
-    background-image: url('/news-homepage-main/assets/images/image-web-3-desktop.jpg');
+    background-image: url('/assets/images/image-web-3-desktop.jpg');
     background-repeat: no-repeat;
     background-size: 100% 90%;
     margin: 20px 0 0;
@@ -392,7 +392,7 @@ transform: scale(0.98);
 }
 
  .img-div {
-    background-image: url('/news-homepage-main/assets/images/image-web-3-mobile.jpg');
+    background-image: url('/assets/images/image-web-3-mobile.jpg');
     background-size: 100% 100%;
     width: var(--magic-num);
     height: 480px;
